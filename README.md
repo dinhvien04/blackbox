@@ -152,10 +152,18 @@ Password: admin123
 Role: Administrator
 ```
 
+```
+Username: manager  
+Password: manager123
+Role: Manager
+```
+
 ### 🛍️ **Khách hàng**
 ```
 Username: vien
 Password: 123
+```
+
 
 ---
 
