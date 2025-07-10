@@ -520,12 +520,13 @@ form .btn-dathang:hover {
 
 .modal-address-content {
     position: relative;
-    margin: auto;
+    margin: 50px auto;
     background-color: #fff;
     box-shadow: 0 0 12px rgba(0, 0, 0, 0.08);
     width: 600px;
     padding: 20px;
     animation: slideDown 0.4s ease;
+    border-radius: 8px;
 }
 
 .modal-address-content h2 {

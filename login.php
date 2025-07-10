@@ -39,7 +39,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
             // Admin vào trang quản trị
             header('Location: admin/dashboard.php');
         } else {
-            // User vào trang chủ
+            // User vào trang chủ   
             header('Location: index.php');
         }
         exit;
