@@ -526,8 +526,8 @@ CREATE TABLE `taikhoan` (
 INSERT INTO `taikhoan` (`username`, `password`, `vaitro`) VALUES
 ('admin', 'admin123', 'admin'),
 ('manager', 'manager123', 'admin'),
-('san24', '123', 'user'),
-('vuong', '123', 'user');
+('vien', '123', 'user'),
+
 
 -- --------------------------------------------------------
 
