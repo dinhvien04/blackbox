@@ -83,7 +83,7 @@
    $host = 'localhost';
    $dbname = 'QLBH';
    $username = 'root';
-   $password = 'your_password';
+   $password = '';
    ```
 
 5. **Truy cập website**
@@ -152,22 +152,10 @@ Password: admin123
 Role: Administrator
 ```
 
-```
-Username: manager  
-Password: manager123
-Role: Manager
-```
-
 ### 🛍️ **Khách hàng**
 ```
-Username: vuong
+Username: vien
 Password: 123
-```
-
-```
-Username: san24
-Password: 123
-```
 
 ---
 
